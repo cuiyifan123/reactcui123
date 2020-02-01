@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+这个项目是用react app启动的
+
 ## Available Scripts
 
 In the project directory, you can run:
